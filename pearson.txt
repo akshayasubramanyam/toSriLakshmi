@@ -1,0 +1,23 @@
+Phase I
+Question 1: no
+
+Question 2:
+
+test case for the login functionality
+
+Given The login page is opening
+When I input correct username, password and click the Login button 
+Then I am on the Homepage
+When I input incorrect username, password and click the Login button 
+incorrect password or username message shd be displayed.
+
+Phase II
+
+Task 2: Write a program for the following:
+Requirements:
+•Search input should be visible on main page.
+•First page with searching result should have at most 10 elements.
+•Clicking on Next button should displaynext page with10 more result.
+•Third searched element should redirect to theproper article.
+
+the program I have saved separately.
